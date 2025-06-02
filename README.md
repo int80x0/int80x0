@@ -79,12 +79,11 @@ public class Developer {
 ## 🎯 Development Philosophy
 
 ```java
-// My approach to development
 public class CodingPrinciples {
     
     private static final String[] RULES = {
         "One class per file, one responsibility per class",
-        "Performance over convenience",
+        "Performance over convenience", 
         "Clean code needs no comments",
         "Simplicity beats complexity"
     };
@@ -110,23 +109,6 @@ public class CodingPrinciples {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=int80x0&theme=radical" />
 </div>
 
-## 🌟 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/int80x0/slown-vectur">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=int80x0&repo=slown-vectur&theme=radical" />
-  </a>
-  <a href="https://github.com/int80x0/slown-finance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=int80x0&repo=slown-finance&theme=radical" />
-  </a>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=int80x0&theme=radical&layout=compact" />
-</div>
-
 ## 🎨 Code Visualization
 
 <div align="center">
@@ -134,28 +116,14 @@ public class CodingPrinciples {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=int80x0&theme=radical" />
 </div>
 
-## 💡 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/int80x0)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](80x0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@slown.de)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@domain.com)
 
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/int80x0/int80x0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/int80x0/int80x0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/int80x0/int80x0/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
