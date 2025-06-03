@@ -117,16 +117,6 @@ public class CodingPrinciples {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=int80x0&theme=radical" />
 </div>
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/int80x0)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@domain.com)
-
-</div>
-
 ---
 
 <div align="center">
