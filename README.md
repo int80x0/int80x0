@@ -1,7 +1,7 @@
 # 👋 Hi, I'm int80x0
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=System+Developer+%7C+Java+Expert;Minecraft+Plugin+Architecture;Clean+Code+%7C+Performance+First" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=System+Developer+%7C+Low-Level+Expert;PS3+Homebrew+%7C+Console+Development;C%2FC%2B%2B+%7C+Java+Architecture;Clean+Code+%7C+Performance+First" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,33 +10,37 @@
 
 ## 🚀 About Me
 
-```java
-public class Developer {
-    private String name = "int80x0";
-    private String[] skills = {"Java", "System Architecture", "Performance Optimization"};
-    private String focus = "Clean, performant code without unnecessary abstractions";
-    private String motto = "Every class has a purpose, every method a single responsibility";
+```cpp
+class Developer {
+private:
+    std::string name = "int80x0";
+    std::vector<std::string> skills = {"C/C++", "PS3 Development", "Java", "System Architecture"};
+    std::string focus = "Low-level programming and console homebrew development";
+    std::string motto = "Every bit matters, every cycle counts";
     
-    public void code() {
+public:
+    void code() {
         while (alive) {
-            writeCleanCode();
-            optimizePerformance();
-            avoidOverengineering();
+            writeOptimizedCode();
+            exploreLowLevelSystems();
+            developForConsoles();
+            maintainCleanArchitecture();
         }
     }
-}
+};
 ```
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PS3](https://img.shields.io/badge/PS3-003791?style=for-the-badge&logo=playstation&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -45,6 +49,24 @@ public class Developer {
 
 <div align="center">
   <table>
+    <tr>
+      <td align="center">
+        <h3>🎮 PS3 Homebrew Suite</h3>
+        <p>Custom PS3 applications & system tools</p>
+        <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=flat&logo=cplusplus"/>
+        <img src="https://img.shields.io/badge/PS3DEV-Toolchain-green?style=flat"/>
+        <br>
+        <sub>RSX Graphics • Cell SPU • System Libraries</sub>
+      </td>
+      <td align="center">
+        <h3>🔧 PSL1GHT Framework</h3>
+        <p>Enhanced PS3 development framework</p>
+        <img src="https://img.shields.io/badge/C-99-orange?style=flat&logo=c"/>
+        <img src="https://img.shields.io/badge/PowerPC-Architecture-purple?style=flat"/>
+        <br>
+        <sub>Low-level optimization • Memory management</sub>
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <h3>🎮 Slown-Vectur</h3>
@@ -60,7 +82,7 @@ public class Developer {
         <img src="https://img.shields.io/badge/ProtocolLib-5.1.0-blue?style=flat"/>
         <img src="https://img.shields.io/badge/3D-Holograms-purple?style=flat"/>
         <br>
-        <sub>NMS integration • Packet manipulation • Economy</sub>
+        <sub>NMS integration • Packet manipulation</sub>
       </td>
     </tr>
   </table>
@@ -79,24 +101,51 @@ public class Developer {
 
 ## 🎯 Development Philosophy
 
-```java
-public class CodingPrinciples {
-    
-    private static final String[] RULES = {
-        "One class per file, one responsibility per class",
-        "Performance over convenience", 
-        "Clean code needs no comments",
-        "Simplicity beats complexity"
+```cpp
+class CodingPrinciples {
+private:
+    static constexpr const char* RULES[] = {
+        "One class per file, single responsibility principle",
+        "Performance over convenience - every cycle matters", 
+        "Clean code speaks for itself",
+        "Low-level understanding drives high-level solutions",
+        "Hardware constraints breed creative optimizations"
     };
     
-    public void writeCode() {
-        avoidOverengineering();
-        focusOnPerformance();
+public:
+    void writeCode() {
+        optimizeForTarget();
+        understandTheHardware();
         maintainCleanArchitecture();
-        noUnnecessaryAbstractions();
+        avoidUnnecessaryAbstractions();
     }
-}
+};
 ```
+
+## 🔧 Development Environment
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>🖥️ PS3 Development</h4>
+        <img src="https://img.shields.io/badge/PS3DEV-Toolchain-blue?style=flat"/>
+        <img src="https://img.shields.io/badge/Cell-SDK-green?style=flat"/>
+        <img src="https://img.shields.io/badge/RSX-Graphics-red?style=flat"/>
+        <br>
+        <sub>Cross-compilation • PowerPC Assembly • SPU Programming</sub>
+      </td>
+      <td align="center">
+        <h4>⚡ System Programming</h4>
+        <img src="https://img.shields.io/badge/GCC-Cross--Compiler-orange?style=flat"/>
+        <img src="https://img.shields.io/badge/Make-Build--System-yellow?style=flat"/>
+        <img src="https://img.shields.io/badge/GDB-Debugging-purple?style=flat"/>
+        <br>
+        <sub>Memory management • Performance profiling • Hardware interfaces</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🔥 Activity Graph
 
@@ -117,6 +166,25 @@ public class CodingPrinciples {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=int80x0&theme=radical" />
 </div>
 
+## 🎮 Console Development Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PlayStation_3-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+        <br>
+        <sub>Homebrew applications, system utilities, performance optimization</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PowerPC-Architecture-FF6B00?style=for-the-badge&logo=ibm&logoColor=white"/>
+        <br>
+        <sub>Cell processor programming, SPU utilization, RSX graphics</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 <div align="center">
@@ -125,5 +193,5 @@ public class CodingPrinciples {
 </div>
 
 <div align="center">
-  <i>"Code is poetry written in logic"</i>
+  <i>"Low-level understanding enables high-level innovation"</i>
 </div>
