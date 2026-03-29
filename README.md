@@ -1,65 +1,36 @@
-# 👋 Hi, I'm int80x0
+# int80x0
 
-<div align="center">
-  <b>System & Minecraft Developer</b><br>
-  <i>Performance first. Clean architecture. Efficient design.</i>
-</div>
+System & Software Developer  
+Performance-first engineering, clean architecture, and reliable systems.
 
----
+## Tech
 
-## ⚙️ Tech Stack
+- **Languages:** C, C++, C#, Java, TypeScript, JavaScript
+- **Web:** Next.js, React, Node.js
+- **Minecraft:** Paper/Folia/Velocity, plugin and network development
+- **Tooling:** Git, Gradle, Maven, GitHub Actions
 
-<div align="center">
+## Focus
 
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Performance-critical backend systems
+- Minecraft core, API, and plugin architecture
+- Modular, maintainable codebases
+- Web apps and internal tooling
 
-</div>
+## Work Style
 
----
+- Correctness > Speed > Pretty
+- Clear contracts, minimal magic
+- Scalable structure over short-term hacks
+- Quality over quantity
 
-## 🧠 About Me
+## Current
 
-```
-class Developer {
-    private final String name = "int80x0";
-    private final String focus = "Minecraft architecture & performance systems";
-
-    public void build() {
-        writeCleanCode();
-        optimizeEveryTick();
-        designScalableSystems();
-    }
-}
-```
-
----
-
-## 🧩 Focus Areas
-
-<div align="center">
-
-🧱 Minecraft Plugin Architecture • ⚙️ System Performance • 🧠 Clean Code  
-📦 Network Design • 🔒 Modular Server Frameworks
-
-</div>
-
----
-
-## 🧰 Environment
-
-<div align="center">
-
-🖥️ IntelliJ IDEA / VS Code • ☕ Java / C / C++  
-🧩 Gradle / Maven / Make • 🧾 Git + GitHub Actions
-
-</div>
+- Building core systems and infrastructure for **SunHaven.net**
+- Developing custom features for network and gameplay services
 
 ---
 
 <div align="center">
   <i>"Performance isn’t a feature — it’s a foundation."</i>
 </div>
-
